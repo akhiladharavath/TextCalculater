@@ -1,0 +1,27 @@
+.text {
+    text-align: center;
+}
+
+textarea {
+    width: 700px;
+    height: 300px;
+    padding: 10px;
+    border: none;
+    /* Remove default border */
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px 2px rgba(0, 0, 0, 0.5);
+    /* Box shadow for border */
+}
+
+button {
+    width: 150px;
+    height: 40px;
+    border: none;
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    margin-right: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
